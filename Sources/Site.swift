@@ -42,7 +42,7 @@ struct ExampleSite: Site {
     var darkTheme: (any Theme)? = DarkTheme()
     var name = "Hello World"
     var titleSuffix = " – My Awesome Site"
-    var url = URL(static: "https://www.example.com")
+    var url = URL(static: "https://jcedmiston.github.io")
     var builtInIconsEnabled = true
 
     var author = "Joseph Edmiston"
